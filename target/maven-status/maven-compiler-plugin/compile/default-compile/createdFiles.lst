@@ -1,0 +1,6 @@
+com\okayde\gof\Test.class
+com\okayde\gof\simplefactory\ImplB.class
+com\okayde\gof\simplefactory\Client.class
+com\okayde\gof\simplefactory\Factory.class
+com\okayde\gof\simplefactory\ImplA.class
+com\okayde\gof\simplefactory\Api.class
